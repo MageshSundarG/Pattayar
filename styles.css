@@ -1,0 +1,71 @@
+.carousel-item{
+  height: 500px;
+}
+
+.position{
+  position: absolute;
+  left: 10;
+  top: 40%;
+}
+
+.no-dec{
+  text-decoration: none;
+}
+
+/* Video section */
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto');
+a{
+   color:#333 !important;
+}
+section.video h2{
+  color:#333 !important;
+  font-family: 'Oswald', sans-serif;
+}
+section.video .watch-video{
+ font-family: 'Roboto', sans-serif;
+}
+section.video p.video-data {
+    color: #808080;
+}
+.video-sec{
+  margin: 0 205px;
+}
+
+.card{
+  height: 300px;
+}
+
+.publish-date{
+  font-size: 9px;
+}
+
+.btn{
+  background-color: white;
+  padding: 14px 24px;
+}
+
+.btn{
+  background-color: #E40000;
+}
+
+.no{
+  padding: 35px 0 0 0;
+}
+
+.sec-bg-img-knowledge-base{
+  url(https://assets.airtel.in/static-assets/new-home/img/white-pattern.svg);
+  position: absolute;
+  z-index: 0;
+}
+
+.no1{
+  padding: 0 0 35px 0;
+}
+
+.bg-color-beige{
+    background-color: #e9e2d0;
+}
+
+.red-text{
+  color: red;
+}
